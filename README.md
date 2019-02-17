@@ -1,2 +1,2 @@
 # hello-world
-This is an optional description field. Here I will tell you that this hello-world repository is a tradition. Plus I needed to learn how to make a repository.
+A few bits, well, perhaps bytes about myself. I went to school for Computer Science, but unfortunatly never completed the degree. I'm currently employed as a Repair Technician, and also I am a Certified EMT who volunteers at the Ambulance Company in my community. Despite this I've always been able to understand, and trouble shoot all things of computing nature. Apart of myself feels that i would do well debugging code for others, but have never found myself in that line of work. Ultimately I dream of being able to create programs, or be apart of a team that successfully creates programs.
